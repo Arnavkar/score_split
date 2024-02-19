@@ -1,0 +1,11 @@
+Part: soprano
+
+Left: 50
+Right: 1690
+
+First
+275 475 1500 1650
+
+Rest
+170 330 1490 1630
+
